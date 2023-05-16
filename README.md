@@ -44,4 +44,4 @@ We welcome contributions to the PyPlus dataset repository. If you have additiona
 
 ## Contact
 If you have any questions, suggestions, or feedback regarding the PyPlus dataset, please don't hesitate to contact us.
-You can reach out via: kyrolloszakria@aucegypt.edu 
+You can reach out via: kyrolloszakaria@aucegypt.edu 
